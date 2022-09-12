@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T06:06:53.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZjeCEu1VIQggTDfZ85mB" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-12T06:09:15.408Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="omlZXTwH1x7PH6jPLGT8" version="20.3.0" type="github" pages="2">
   <diagram id="NFTLbqO-WQb6DqNa27zx" name="XXX Customer Journey">
     <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
         <mxCell id="ck5TydxHsIJJEnThvY5n-21" value="触达媒介&lt;br&gt;触达时间" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-28">
           <mxGeometry y="30" width="210" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-27" value="第二波" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-28">
+        <mxCell id="ck5TydxHsIJJEnThvY5n-27" value="*第二波" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-28">
           <mxGeometry x="75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ck5TydxHsIJJEnThvY5n-18" target="ck5TydxHsIJJEnThvY5n-21">
@@ -91,6 +91,47 @@
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-33" value="业务分析" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="420" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="129" as="sourcePoint" />
+            <mxPoint x="840" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-35" value="第二步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ck5TydxHsIJJEnThvY5n-34">
+          <mxGeometry x="0.1179" y="2" relative="1" as="geometry">
+            <mxPoint x="-23" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-36" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="310" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-37" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="580" y="260" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-38" value="触达媒介&lt;br&gt;触达时间" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-37">
+          <mxGeometry y="30" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-39" value="第一波" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-37">
+          <mxGeometry x="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ck5TydxHsIJJEnThvY5n-18" target="ck5TydxHsIJJEnThvY5n-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="270" as="sourcePoint" />
+            <mxPoint x="600" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ck5TydxHsIJJEnThvY5n-21" target="ck5TydxHsIJJEnThvY5n-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="260" as="sourcePoint" />
+            <mxPoint x="590" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="370" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
