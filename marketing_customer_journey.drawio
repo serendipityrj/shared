@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T09:29:30.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nEpUd3kmrB9w3bG0b4Qu" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-12T09:38:38.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="MdzAo3tWhK2iRdwlqNhr" version="20.3.0" type="github" pages="3">
   <diagram id="NFTLbqO-WQb6DqNa27zx" name="XXX Customer Journey">
     <mxGraphModel dx="2807" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,21 +121,6 @@
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-33" value="业务分析" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="833" y="330" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-63" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-150" y="1120" width="1110" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-10" value="&lt;b&gt;Legend&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;" parent="ck5TydxHsIJJEnThvY5n-63" vertex="1">
-          <mxGeometry width="1110" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-8" value="业务过程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="ck5TydxHsIJJEnThvY5n-63" vertex="1">
-          <mxGeometry x="110" y="10" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-11" value="监控分析模块&lt;br&gt;结果类" style="text;html=1;strokeColor=#66CC00;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ck5TydxHsIJJEnThvY5n-63" vertex="1">
-          <mxGeometry x="230" y="10" width="100" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-12" value="业务分析模块&lt;br&gt;过程类" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ck5TydxHsIJJEnThvY5n-63" vertex="1">
-          <mxGeometry x="350" y="10" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-64" value="监控分析" style="text;html=1;strokeColor=#66CC00;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="550" width="100" height="70" as="geometry" />
@@ -295,8 +280,8 @@
         <mxCell id="dMPuBpF7EYoad8hvQ-Gc-26" value="车主-会员（重购）：&lt;br&gt;&lt;ul&gt;&lt;li&gt;成为会员的时间和交车时间的关系（在交车之前多久可以集中进行培育，粘性套餐推荐，可以根据浏览喜好进行培育）&lt;/li&gt;&lt;li&gt;会员活跃程度在成为会员之后的曲线（是否存在拐点和黄金期），拆分渠道分析是否存在不同&lt;/li&gt;&lt;li&gt;成为会员后的线上消费曲线，拆分渠道分析，是否有某些渠道高价值客户比例高&lt;/li&gt;&lt;li&gt;新会员 或者 老会员在活动后活跃，却没有成交人群 的浏览行为，感兴趣车型,，以及带来的消费，进一步挖掘潜客&lt;/li&gt;&lt;li&gt;分析S1-S7人群分群的决策周期分布，针对不同人群（到店/试驾后注册app）的黄金决策期，准备进一步策略&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="500" width="500" height="182" as="geometry" />
         </mxCell>
-        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-27" value="黄金期&lt;br&gt;高效果渠道&lt;br&gt;高价值客户&lt;br&gt;挖掘潜客" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2060" y="500" width="170" height="150" as="geometry" />
+        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-27" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; When：&lt;/span&gt;&lt;/div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 培育黄金期&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 决策黄金期&lt;br&gt;&amp;nbsp; Who:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 高价值客户&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 挖掘潜客&lt;br&gt;&amp;nbsp; How:&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 高效果渠道&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 人群模型细分模型迭代&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 客户标签增加迭代&lt;br&gt;" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="520" width="170" height="490" as="geometry" />
         </mxCell>
         <mxCell id="dMPuBpF7EYoad8hvQ-Gc-28" value="车主-非会员（重购）：&lt;br&gt;&lt;ul&gt;&lt;li&gt;短信/线上链接的点击率，到店率，试驾率，下单率 是否低于均值（若低于均值，进行归因分析）&lt;/li&gt;&lt;li&gt;本次活动的圈选人群是否准确&lt;/li&gt;&lt;li&gt;针对所属的S1-S7人群细分，分析不加入会员归因&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="690" width="500" height="110" as="geometry" />
