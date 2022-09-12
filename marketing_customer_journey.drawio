@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T08:28:06.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="He2QMTvr8wIWrcW202mZ" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-12T09:17:20.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_SmGmF32M3vgkFD7Cpg4" version="20.3.0" type="github" pages="3">
   <diagram id="NFTLbqO-WQb6DqNa27zx" name="XXX Customer Journey">
-    <mxGraphModel dx="2692" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2807" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ck5TydxHsIJJEnThvY5n-50" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="110" width="2510" height="790" as="geometry" />
+          <mxGeometry x="-150" y="110" width="2510" height="880" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-50" vertex="1">
           <mxGeometry width="2510" height="30" as="geometry" />
@@ -44,21 +44,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-50" vertex="1">
-          <mxGeometry y="370" width="2510" height="420" as="geometry" />
+          <mxGeometry y="370" width="2510" height="510" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-60" value="&lt;b&gt;Analytical Modules&lt;br&gt;Detail&lt;br&gt;(突出业务价值和作用)&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-59" vertex="1">
-          <mxGeometry width="100" height="420" as="geometry">
-            <mxRectangle width="100" height="420" as="alternateBounds" />
+          <mxGeometry width="100" height="510" as="geometry">
+            <mxRectangle width="100" height="510" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-61" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-59" vertex="1">
-          <mxGeometry x="100" width="2330" height="420" as="geometry">
-            <mxRectangle width="2330" height="420" as="alternateBounds" />
+          <mxGeometry x="100" width="2330" height="510" as="geometry">
+            <mxRectangle width="2330" height="510" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-62" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-59" vertex="1">
-          <mxGeometry x="2430" width="80" height="420" as="geometry">
-            <mxRectangle width="80" height="420" as="alternateBounds" />
+          <mxGeometry x="2430" width="80" height="510" as="geometry">
+            <mxRectangle width="80" height="510" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CvH_J8DFizbyk-mOEBhl-1" value="&lt;h1&gt;Repurchase Customer Journey&lt;/h1&gt;&lt;p&gt;定义基于xxx的客户engagement flow，针对flow中的业务点，梳理分析点，确定整体分析框架&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -292,14 +292,17 @@
         <mxCell id="dMPuBpF7EYoad8hvQ-Gc-25" value="方案匹配" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dMPuBpF7EYoad8hvQ-Gc-23">
           <mxGeometry x="20" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-26" value="车主-会员：&lt;br&gt;&lt;ul&gt;&lt;li&gt;成为会员的时间和交车时间的关系（在交车之前多久可以集中进行培育，可以根据浏览喜好进行培育）&lt;/li&gt;&lt;li&gt;会员活跃程度在成为会员之后的曲线（是否存在拐点和黄金期），拆分渠道分析是否存在不同&lt;/li&gt;&lt;li&gt;成为会员后的线上消费曲线，拆分渠道分析，是否有某些渠道高价值客户比例高&lt;/li&gt;&lt;li&gt;新会员 或者 老会员在活动后活跃，却没有成交人群 的浏览行为，感兴趣车型&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="500" width="500" height="150" as="geometry" />
+        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-26" value="车主-会员（重购）：&lt;br&gt;&lt;ul&gt;&lt;li&gt;成为会员的时间和交车时间的关系（在交车之前多久可以集中进行培育，粘性套餐推荐，可以根据浏览喜好进行培育）&lt;/li&gt;&lt;li&gt;会员活跃程度在成为会员之后的曲线（是否存在拐点和黄金期），拆分渠道分析是否存在不同&lt;/li&gt;&lt;li&gt;成为会员后的线上消费曲线，拆分渠道分析，是否有某些渠道高价值客户比例高&lt;/li&gt;&lt;li&gt;新会员 或者 老会员在活动后活跃，却没有成交人群 的浏览行为，感兴趣车型,，以及带来的消费，进一步挖掘潜客&lt;/li&gt;&lt;li&gt;分析S1-S7人群分群的决策周期分布，针对不同人群（到店/试驾后注册app）的黄金决策期，准备进一步策略&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="500" width="500" height="182" as="geometry" />
         </mxCell>
         <mxCell id="dMPuBpF7EYoad8hvQ-Gc-27" value="黄金期&lt;br&gt;高效果渠道&lt;br&gt;高价值客户&lt;br&gt;挖掘潜客" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2060" y="500" width="170" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-28" value="车主-非会员：&lt;br&gt;&lt;ul&gt;&lt;li&gt;成为会员的时间和交车时间的关系（在交车之前多久可以集中进行培育，可以根据浏览喜好进行培育）&lt;/li&gt;&lt;li&gt;会员活跃程度在成为会员之后的曲线（是否存在拐点和黄金期），拆分渠道分析是否存在不同&lt;/li&gt;&lt;li&gt;成为会员后的线上消费曲线，拆分渠道分析，是否有某些渠道高价值客户比例高&lt;/li&gt;&lt;li&gt;新会员 或者 老会员在活动后活跃，却没有成交人群 的浏览行为，感兴趣车型&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="660" width="500" height="150" as="geometry" />
+        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-28" value="车主-非会员（重购）：&lt;br&gt;&lt;ul&gt;&lt;li&gt;短信/线上链接的点击率，到店率，试驾率，下单率 是否低于均值（若低于均值，进行归因分析）&lt;/li&gt;&lt;li&gt;本次活动的圈选人群是否准确&lt;/li&gt;&lt;li&gt;针对所属的S1-S7人群细分，分析不加入会员归因&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="690" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-29" value="非车主 -会员（潜客）：&lt;br&gt;&lt;ul&gt;&lt;li&gt;非车主会员活跃程度及线上行为，分析活跃归因，采取不同的策略&lt;/li&gt;&lt;li&gt;分析新会员 却没有成交人群的浏览行为，感兴趣车型，以及带来的消费，进一步挖掘潜客&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="810" width="500" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
