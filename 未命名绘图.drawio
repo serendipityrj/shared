@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T05:46:55.920Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.3.0" etag="W0AXUZTKeixz_uCT7tWU" type="github"><diagram id="NFTLbqO-WQb6DqNa27zx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-12T05:51:57.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="SkGMDKgSMLgTjon7ofKQ" version="20.3.0" type="github" pages="2">
+  <diagram id="NFTLbqO-WQb6DqNa27zx" name="XXX Customer Journey">
+    <mxGraphModel dx="1483" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CvH_J8DFizbyk-mOEBhl-1" value="&lt;h1&gt;XXX Customer Journey&lt;/h1&gt;&lt;p&gt;定义基于xxx的客户engagement flow，针对flow中的业务点，梳理分析点，确定整体分析框架&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K6xnZfSe4j9sOwhgyYzy" name="Analytical Framework">
+    <mxGraphModel dx="1887" dy="1011" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KYi-vEkoNcUP-nL2LZJw-1" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Analytical Framework&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;定义基于xxx的客户engagement flow，针对flow中的业务点，梳理分析点，确定整体分析框架&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="1150" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
