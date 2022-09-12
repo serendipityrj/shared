@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T06:15:15.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0eSQvuVVU_xi7eGoT79s" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-12T06:17:39.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="DG3YkoEnfgaXLkuJkCZg" version="20.3.0" type="github" pages="2">
   <diagram id="NFTLbqO-WQb6DqNa27zx" name="XXX Customer Journey">
     <mxGraphModel dx="2652" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="ck5TydxHsIJJEnThvY5n-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-50">
           <mxGeometry y="400" width="1380" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-60" value="&lt;b&gt;Analytical Framework&lt;br&gt;Detail&lt;br&gt;(突出业务价值和作用)&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-59">
+        <mxCell id="ck5TydxHsIJJEnThvY5n-60" value="&lt;b&gt;Analytical Modules&lt;br&gt;Detail&lt;br&gt;(突出业务价值和作用)&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-59">
           <mxGeometry width="132" height="190" as="geometry">
             <mxRectangle width="132" height="190" as="alternateBounds" />
           </mxGeometry>
@@ -213,7 +213,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KYi-vEkoNcUP-nL2LZJw-1" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Analytical Framework&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;background-color: initial; font-size: 12px; font-weight: normal;&quot;&gt;定义基于xxx的客户engagement flow，针对flow中的业务点，梳理分析点，确定整体分析框架&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="KYi-vEkoNcUP-nL2LZJw-1" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Analytical Framework&lt;/span&gt;&lt;/h1&gt;&lt;h1&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400;&quot;&gt;通过整合基于customer journey或业务流程的分析模块，构成的整体分析框架 - 用于持续监控，分析，通过数据结合PDCA驱动业务进化。&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="1150" height="120" as="geometry" />
         </mxCell>
       </root>
