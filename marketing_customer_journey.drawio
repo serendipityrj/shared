@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T06:14:34.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="QOs8Tm64DbQoNf6rbQBi" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-12T06:15:15.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0eSQvuVVU_xi7eGoT79s" version="20.3.0" type="github" pages="2">
   <diagram id="NFTLbqO-WQb6DqNa27zx" name="XXX Customer Journey">
     <mxGraphModel dx="2652" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="ck5TydxHsIJJEnThvY5n-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-50">
           <mxGeometry y="30" width="1380" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-56" value="&lt;b&gt;Customer Journey&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-55">
+        <mxCell id="ck5TydxHsIJJEnThvY5n-56" value="&lt;b&gt;Customer Journey&lt;br&gt;&amp;amp;&lt;br&gt;Analytical Modules&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-55">
           <mxGeometry width="132" height="370" as="geometry">
             <mxRectangle width="132" height="370" as="alternateBounds" />
           </mxGeometry>
@@ -46,7 +46,7 @@
         <mxCell id="ck5TydxHsIJJEnThvY5n-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-50">
           <mxGeometry y="400" width="1380" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-60" value="&lt;b&gt;Analytical Framework&lt;br&gt;Detail&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-59">
+        <mxCell id="ck5TydxHsIJJEnThvY5n-60" value="&lt;b&gt;Analytical Framework&lt;br&gt;Detail&lt;br&gt;(突出业务价值和作用)&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-59">
           <mxGeometry width="132" height="190" as="geometry">
             <mxRectangle width="132" height="190" as="alternateBounds" />
           </mxGeometry>
