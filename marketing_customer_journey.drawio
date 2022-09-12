@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T06:03:56.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="mvugmXdEsAH5hOniK1g8" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-12T06:05:53.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="A0KXKYvvi3094Pn7qfGJ" version="20.3.0" type="github" pages="2">
   <diagram id="NFTLbqO-WQb6DqNa27zx" name="XXX Customer Journey">
-    <mxGraphModel dx="1483" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
             <mxPoint x="490" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-5" value="首次触达" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ck5TydxHsIJJEnThvY5n-2">
+        <mxCell id="ck5TydxHsIJJEnThvY5n-5" value="第一步" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ck5TydxHsIJJEnThvY5n-2">
           <mxGeometry x="0.1179" y="2" relative="1" as="geometry">
             <mxPoint x="-23" y="-8" as="offset" />
           </mxGeometry>
@@ -61,6 +61,24 @@
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-17" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="160" width="310" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ck5TydxHsIJJEnThvY5n-14" target="ck5TydxHsIJJEnThvY5n-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-21" value="触达媒介&lt;br&gt;触达时间" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="190" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-18" value="触达媒介&lt;br&gt;触达时间" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-23">
+          <mxGeometry y="30" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-22" value="第一波" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-23">
+          <mxGeometry x="75" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-27" value="第二波" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
