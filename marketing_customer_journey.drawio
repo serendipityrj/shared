@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T05:58:02.153Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hcmiEV5maEVptgfvpskv" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-12T06:03:56.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="mvugmXdEsAH5hOniK1g8" version="20.3.0" type="github" pages="2">
   <diagram id="NFTLbqO-WQb6DqNa27zx" name="XXX Customer Journey">
-    <mxGraphModel dx="1221" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ck5TydxHsIJJEnThvY5n-10" value="&lt;b&gt;Legend&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="740" width="1110" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="CvH_J8DFizbyk-mOEBhl-1" value="&lt;h1&gt;XXX Customer Journey&lt;/h1&gt;&lt;p&gt;定义基于xxx的客户engagement flow，针对flow中的业务点，梳理分析点，确定整体分析框架&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="1150" height="80" as="geometry" />
         </mxCell>
@@ -21,9 +24,6 @@
             <mxPoint x="-23" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="310" height="340" as="geometry" />
-        </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="129.9999999999999" as="sourcePoint" />
@@ -34,6 +34,33 @@
           <mxGeometry x="0.1179" y="2" relative="1" as="geometry">
             <mxPoint x="-9" y="-8" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-8" value="业务过程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-9" value="监控分析" style="text;html=1;strokeColor=#66CC00;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="330" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-11" value="监控分析模块&lt;br&gt;结果类" style="text;html=1;strokeColor=#66CC00;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-12" value="业务分析模块&lt;br&gt;过程类" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-13" value="业务分析" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="190" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-14" value="女&lt;br&gt;30-36岁&lt;br&gt;18款车型&lt;br&gt;36个月无交互" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-16">
+          <mxGeometry y="30" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-15" value="筛选" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ck5TydxHsIJJEnThvY5n-16">
+          <mxGeometry x="20" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ck5TydxHsIJJEnThvY5n-17" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="310" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
