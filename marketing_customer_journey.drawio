@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-09-12T09:17:20.584Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_SmGmF32M3vgkFD7Cpg4" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-12T09:29:30.986Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="nEpUd3kmrB9w3bG0b4Qu" version="20.3.0" type="github" pages="3">
   <diagram id="NFTLbqO-WQb6DqNa27zx" name="XXX Customer Journey">
     <mxGraphModel dx="2807" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ck5TydxHsIJJEnThvY5n-50" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-150" y="110" width="2510" height="880" as="geometry" />
+          <mxGeometry x="-150" y="110" width="2580" height="960" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-50" vertex="1">
-          <mxGeometry width="2510" height="30" as="geometry" />
+          <mxGeometry width="2580" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-52" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-51" vertex="1">
           <mxGeometry width="100" height="30" as="geometry">
@@ -20,13 +20,13 @@
             <mxRectangle width="2330" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-54" value="Comments" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-51" vertex="1">
-          <mxGeometry x="2430" width="80" height="30" as="geometry">
-            <mxRectangle width="80" height="30" as="alternateBounds" />
+        <mxCell id="ck5TydxHsIJJEnThvY5n-54" value="&lt;b style=&quot;text-align: left;&quot;&gt;Legend&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-51" vertex="1">
+          <mxGeometry x="2430" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-55" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-50" vertex="1">
-          <mxGeometry y="30" width="2510" height="340" as="geometry" />
+          <mxGeometry y="30" width="2580" height="340" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-56" value="&lt;b&gt;Customer Journey&lt;br&gt;&amp;amp;&lt;br&gt;Analytical Modules&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-55" vertex="1">
           <mxGeometry width="100" height="340" as="geometry">
@@ -38,30 +38,30 @@
             <mxRectangle width="2330" height="340" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-58" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-55" vertex="1">
-          <mxGeometry x="2430" width="80" height="340" as="geometry">
-            <mxRectangle width="80" height="340" as="alternateBounds" />
+        <mxCell id="ck5TydxHsIJJEnThvY5n-58" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;rowspan=2;colspan=1;" parent="ck5TydxHsIJJEnThvY5n-55" vertex="1">
+          <mxGeometry x="2430" width="150" height="930" as="geometry">
+            <mxRectangle width="150" height="340" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-59" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-50" vertex="1">
-          <mxGeometry y="370" width="2510" height="510" as="geometry" />
+          <mxGeometry y="370" width="2580" height="590" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-60" value="&lt;b&gt;Analytical Modules&lt;br&gt;Detail&lt;br&gt;(突出业务价值和作用)&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-59" vertex="1">
-          <mxGeometry width="100" height="510" as="geometry">
-            <mxRectangle width="100" height="510" as="alternateBounds" />
+          <mxGeometry width="100" height="590" as="geometry">
+            <mxRectangle width="100" height="590" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-61" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-59" vertex="1">
-          <mxGeometry x="100" width="2330" height="510" as="geometry">
-            <mxRectangle width="2330" height="510" as="alternateBounds" />
+          <mxGeometry x="100" width="2330" height="590" as="geometry">
+            <mxRectangle width="2330" height="590" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ck5TydxHsIJJEnThvY5n-62" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-59" vertex="1">
-          <mxGeometry x="2430" width="80" height="510" as="geometry">
-            <mxRectangle width="80" height="510" as="alternateBounds" />
+        <mxCell id="ck5TydxHsIJJEnThvY5n-62" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=#000000;" parent="ck5TydxHsIJJEnThvY5n-59" vertex="1" visible="0">
+          <mxGeometry x="2430" width="150" height="590" as="geometry">
+            <mxRectangle width="150" height="590" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CvH_J8DFizbyk-mOEBhl-1" value="&lt;h1&gt;Repurchase Customer Journey&lt;/h1&gt;&lt;p&gt;定义基于xxx的客户engagement flow，针对flow中的业务点，梳理分析点，确定整体分析框架&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="CvH_J8DFizbyk-mOEBhl-1" value="&lt;h1&gt;销售 Customer Journey&lt;/h1&gt;&lt;p&gt;定义基于客户的engagement flow，针对flow中的业务点，梳理分析点，确定整体分析框架&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="1150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
@@ -123,7 +123,7 @@
           <mxGeometry x="833" y="330" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-63" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-130" y="929" width="1110" height="80" as="geometry" />
+          <mxGeometry x="-150" y="1120" width="1110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ck5TydxHsIJJEnThvY5n-10" value="&lt;b&gt;Legend&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=top;" parent="ck5TydxHsIJJEnThvY5n-63" vertex="1">
           <mxGeometry width="1110" height="80" as="geometry" />
@@ -303,6 +303,18 @@
         </mxCell>
         <mxCell id="dMPuBpF7EYoad8hvQ-Gc-29" value="非车主 -会员（潜客）：&lt;br&gt;&lt;ul&gt;&lt;li&gt;非车主会员活跃程度及线上行为，分析活跃归因，采取不同的策略&lt;/li&gt;&lt;li&gt;分析新会员 却没有成交人群的浏览行为，感兴趣车型，以及带来的消费，进一步挖掘潜客&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1480" y="810" width="500" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-30" value="非车主-非会员（潜客）：&lt;br&gt;&lt;ul&gt;&lt;li&gt;短信/线上链接的点击率，到店率，试驾率，下单率 是否低于均值（若低于均值，进行归因分析）&lt;/li&gt;&lt;li&gt;本次活动的圈选人群是否准确&lt;/li&gt;&lt;li&gt;后续可结合联邦学习标签进行进一步分析&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="920" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-31" value="业务过程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="183" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-33" value="监控分析模块&lt;br&gt;结果类" style="text;html=1;strokeColor=#66CC00;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="285" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dMPuBpF7EYoad8hvQ-Gc-35" value="业务分析模块&lt;br&gt;过程类" style="text;html=1;strokeColor=#00CCCC;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="389" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
